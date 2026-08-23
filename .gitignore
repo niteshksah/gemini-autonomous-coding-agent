@@ -1,0 +1,17 @@
+.aider*
+__pycache__/
+*.pyc
+
+.env
+.env.*
+
+aiagt/
+.venv/
+venv/
+
+.vscode/
+.idea/
+
+*.log
+work/
+transcript
