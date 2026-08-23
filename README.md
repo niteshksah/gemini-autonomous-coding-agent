@@ -1,11 +1,11 @@
-
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+![Playwright](https://img.shields.io/badge/Browser-Playwright-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # 🤖 Gemini Autonomous Coding Agent
 
 > An AI-powered coding agent that can inspect files, write code,
-> execute t![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
-![Playwright](https://img.shields.io/badge/Browser-Playwright-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)erminal commands, browse the web, and debug projects.
+> execute terminal commands, browse the web, and debug projects.
 
 [Python] [Gemini] [Playwright] [GitHub] [AI Agent]
 
@@ -28,9 +28,8 @@ Gemini LLM
  ↓
 Agent Decision
  ↓
-┌───────────────┬──────────────┬──────────────┐
-│ File Tools    │ Terminal     │ Web Browser  │
-└───────────────┴──────────────┴──────────────┘
+┌───────────────┬──────────────|
+File Tools  Terminal   Web Browser
  ↓
 Project Workspace
 
