@@ -20,19 +20,6 @@
 ✅ Python development
 ✅ Verilog / RTL development
 
-## 🏗️ Architecture
-
-User
- ↓
-Gemini LLM
- ↓
-Agent Decision
- ↓
-┌───────────────┬──────────────|
-File Tools  Terminal   Web Browser
- ↓
-Project Workspace
-
 ## 💻 Example
 
 Ask:
